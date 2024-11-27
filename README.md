@@ -1,11 +1,11 @@
-#odin-recipes
+# odin-recipes
 
 This is a recipe site project. Is part of the [Odin Project](https://www.theodinproject.com)
 full stack curriculum.
 
 The site consist of a main index page wich will have links to a few recipes.
 
-##Skills
+## Skills
 At this point, the skill that its supposed to have adquired are:
 
 * HTML: basic schema for a webpage.
